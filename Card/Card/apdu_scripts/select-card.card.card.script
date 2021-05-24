@@ -1,0 +1,12 @@
+// Copyright (c) 1998, 2021, Oracle and/or its affiliates. All rights reserved.
+
+// Applet Selection APDU Script
+//
+// Package:     Card.card
+// Package AID: //aid/0000000000/00
+// Applet:      card.card
+// Applet AID:  //aid/0000000000/
+//
+
+// Select card.card applet
+0x00 0xA4 0x04 0x00 0x05 0x00 0x00 0x00 0x00 0x00 0x7F;

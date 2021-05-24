@@ -1,0 +1,12 @@
+Digest for card/javacard/Method.cap		[SHA-256: cffb5322c0f0ddc31dd569871d41f76b2330c3461cd05dc9fbdbfbbec98c9bed]
+Digest for card/javacard/Class.cap		[SHA-256: c183b8c6a0e41060c93770c5aa27655b6703ac077b027d57e64a17f71f9c8ab9]
+Digest for card/javacard/Descriptor.cap		[SHA-256: 2df6134ee4a25d59731e8f84973fcfd121cdfa9f20453c22ba02e56a6c93c4cb]
+Digest for card/javacard/StaticField.cap		[SHA-256: 5863e9740af5fb905922380b2aa88309a16a285dd3412417ae8af941327901ee]
+Digest for card/javacard/Directory.cap		[SHA-256: 3def7e549459de57363b898634b43c5ab2409e4c0bdb684096b3c7ea427cecf4]
+Digest for card/javacard/Applet.cap		[SHA-256: bb867e26e6b7613549774141ec20f0fa60fa6cf5d12bdbc19f0e05d4437ce6bc]
+Digest for card/javacard/RefLocation.cap		[SHA-256: a86f0d16565e8dfccc186d196b2eca4eaf00bf359f91e01c2f324180465c4384]
+Digest for card/javacard/Header.cap		[SHA-256: c47402ed9cc74a5ddae145352a342a6bc8acbb7d22d4197ba1fc7f1da21ea1ae]
+Digest for card/javacard/ConstantPool.cap		[SHA-256: 65d4ed9b9e4728c3a71371d448a936603b1b863f2d1fc0430d9e6bbfab5449c8]
+Digest for card/javacard/Debug.cap		[SHA-256: 196ad96bb8d88b9802515f20c3f2b62289da0b018f3d84e5dd4437faec43e2cf]
+Digest for card/javacard/Import.cap		[SHA-256: 8cc3642a6d49023dc39aece31584cf15757e6bbcbc1e299514366eae84efce86]
+Verification completed with 0 warnings and 0 errors.

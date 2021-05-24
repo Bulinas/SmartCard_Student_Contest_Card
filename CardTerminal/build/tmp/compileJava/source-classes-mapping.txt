@@ -1,0 +1,8 @@
+javaTerminal/CardTerminal.java
+ javaTerminal.CardTerminal
+javaTerminal/Database.java
+ javaTerminal.Database
+javaTerminal/Manager.java
+ javaTerminal.Manager
+javaTerminal/Main.java
+ javaTerminal.Main
